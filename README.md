@@ -1,6 +1,6 @@
 # Sexual_antagonism
 
- In my masters I workdon sexual antagonism in Drosophila melanogaster. This involved selected lines of flies and comparing aspects of thier fitness.
+ In my masters I worked on sexual antagonism in Drosophila melanogaster. This involved selected lines of flies and comparing aspects of thier fitness.
 
  Unfortunately this was never published which I thought was odd given the time and effort put in by thers for the flies to be created.
 
